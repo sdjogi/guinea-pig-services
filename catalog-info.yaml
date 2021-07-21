@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: guinea-pig-services
+  annotations:
+    github.com/project-slug: sdjogi/guinea-pig-services
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
